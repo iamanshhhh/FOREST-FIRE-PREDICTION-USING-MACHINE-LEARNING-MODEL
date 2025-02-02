@@ -1,1 +1,1 @@
-# FOREST-FIRE-PREDICTION-USING-MACHINE-LEARNING-MODEL
+Through the analysis of intricate patterns in meteorological and environmental data, machine learning provides strong tools for forest fire prediction. Six machine learning models—Random Forest, Neural Networks, Linear Regression, Decision Trees, Support Vector Regression (SVR), and Extreme Gradient Boosting (XGBoost)—were used in this study, and their performances were compared.
